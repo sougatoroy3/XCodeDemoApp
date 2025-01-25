@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2025-01-25 21.53.36 - A cute golden retriever dog sitting on a grassy field under a bright sunny sky, looking happy and playful, with soft fur and a wagging tail. Detailed .jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "DALL·E 2025-01-25 21.53.41 - A cute golden retriever dog sitting on a grassy field under a bright sunny sky, looking happy and playful, with soft fur and a wagging tail. Detailed .jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "DALL·E 2025-01-25 21.53.48 - A cute golden retriever dog sitting on a grassy field under a bright sunny sky, looking happy and playful, with soft fur and a wagging tail. Detailed .jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
